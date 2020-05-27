@@ -1,3 +1,6 @@
+Counter App - To learn basic functionalities of React
+An oversimplified version of ECOM App Cart
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
